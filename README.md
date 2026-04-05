@@ -20,7 +20,7 @@ In practice, these tools are typically only shared with business partners, so ac
 
 1. Extract files from the VeryFit app:
 
-   * `.zip`: `VeryFit → CloudDial → [device code]`
+   * `.zip`: `VeryFit → CloudDial → [deviceId]`
    * `.iwf`: `VeryFit → IDOIWF`
 
 2. Inspect `.iwf` files:
