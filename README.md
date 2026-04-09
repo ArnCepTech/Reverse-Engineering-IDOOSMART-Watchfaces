@@ -78,6 +78,10 @@ Very few public tools exist.
 * Document the `.iwf` format structure
 
 ---
+## Internal publishing tool link (Web version, use it at your own risk)
+* http://ali-dial-manage.veryfitapp.com/
+
+---
 
 ## Planned Documentation
 
