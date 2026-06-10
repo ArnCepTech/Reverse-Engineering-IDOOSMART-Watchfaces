@@ -10,7 +10,7 @@ This project documents methods for reverse-engineering the proprietary `.iwf` wa
 
 ### I. Official Method (Unlikely)
 
-You can try contacting `ido@idoo.cn` to request access to ODM/OEM tools.
+You can try contacting `ido@idoocn.com` to request access to ODM/OEM tools.
 
 In practice, these tools are typically only shared with business partners, so access is unlikely.
 
